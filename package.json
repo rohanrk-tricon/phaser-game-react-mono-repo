@@ -4,6 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "main": "index.ts",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",

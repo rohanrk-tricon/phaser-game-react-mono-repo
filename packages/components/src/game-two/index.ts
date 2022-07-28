@@ -1,0 +1,1 @@
+export { default as GameTwo } from './src/GameTwo';
