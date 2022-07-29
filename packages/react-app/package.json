@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@namespace/components": "^0.1.0"
+    "@namespace/game-two": "^0.1.0"
   },
   "scripts": {
     "start": "react-app-rewired start",
